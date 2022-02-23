@@ -6,5 +6,8 @@ elements.liquidMethane = {
     state: "liquid",
     density: 720
 };
-
+runAfterLoad(function() {
+    // Your code here
+    console.log("Hello World!");
+});
 eLists.CYROGENIC = ["liquidMethane"];
