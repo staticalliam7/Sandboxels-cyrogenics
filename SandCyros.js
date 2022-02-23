@@ -6,3 +6,5 @@ elements.liquidMethane = {
     state: "liquid",
     density: 720
 };
+
+eLists.CYROGENIC = ["liquidMethane"];
